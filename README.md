@@ -24,7 +24,6 @@ Dark Theme:
 ![dark](https://github.com/user-attachments/assets/47cee754-f281-487e-bd6d-bcf40e337002)
 
 
-This project is ideal for showcasing data visualization and dashboard design skills, and it serves as a practical example for HR analytics
 
 ---------------------------------------------------------
 İK Analitiği İçin Dinamik Gösterge Tablosu
@@ -53,7 +52,6 @@ Açık Tema:
 Koyu Tema:
 ![dark](https://github.com/user-attachments/assets/66190b8d-7e67-4401-8be8-d1cd8ce4be6d)
 
-Bu proje, veri görselleştirme ve pano tasarımı becerilerini sergilemek için idealdir ve İK analitiği için pratik bir örnek sunar.
 
 
 
