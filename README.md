@@ -26,7 +26,9 @@ Dark Theme:
 
 
 ---------------------------------------------------------
-İK Analitiği İçin Dinamik Gösterge Tablosu
+--İK Analitiği İçin Dinamik Gösterge Tablosu
+
+
 Bu proje, Power BI kullanılarak oluşturulmuş bir İK Analitiği Gösterge Tablosunu içermektedir. Kullanıcı deneyimini geliştirmek için açık ve koyu tema seçenekleri sunulmaktadır. Gösterge tablosu, çalışan kaybı (attrition), maaş trendleri ve iş memnuniyeti gibi konularda detaylı içgörüler sağlayarak organizasyonların veriye dayalı İK kararları almasına yardımcı olur.
 
 Özellikler:
